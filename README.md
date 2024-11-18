@@ -1,5 +1,8 @@
  Hi, I'm @sarathins
-👀 Passionate about: Quantitative finance, algorithmic trading, and data-driven decision-making in financial markets.
+
+
+Passionate about: Quantitative finance, algorithmic trading, and data-driven decision-making in financial markets.
+
 🌱 Currently exploring: Advanced machine learning techniques and momentum-based strategies for enhanced portfolio performance.
 
 💼 Projects:
