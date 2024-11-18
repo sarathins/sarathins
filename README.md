@@ -1,4 +1,4 @@
- Hi, I'm @sarathins
+ Hi, I'm Parthasarathi
 
 
 Passionate about: Quantitative finance, algorithmic trading, and data-driven decision-making in financial markets.
